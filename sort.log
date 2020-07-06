@@ -1,0 +1,100 @@
+2020-07-06 22:12:09 INFO  Main:30 - Test number 1
+2020-07-06 22:12:55 INFO  Main:31 - Bubble Sorting time in ns: 45638556500
+2020-07-06 22:12:57 INFO  Main:32 - Selection Sorting time in ns: 2462684200
+2020-07-06 22:12:57 INFO  Main:33 - Insertion Sorting time in ns: 4187100
+2020-07-06 22:12:57 INFO  Main:34 - Shuttle Sorting time in ns: 2961100
+2020-07-06 22:12:57 INFO  Main:35 - Shell Sorting time in ns: 11656500
+2020-07-06 22:12:57 INFO  Main:36 - Merge Sorting time in ns: 34503800
+2020-07-06 22:12:57 INFO  Main:37 - Quick Sorting time in ns: 12978800
+2020-07-06 22:12:57 INFO  Main:38 - Collection.sort() time in ns: 143914400
+
+2020-07-06 22:12:57 INFO  Main:30 - Test number 2
+2020-07-06 22:13:43 INFO  Main:31 - Bubble Sorting time in ns: 45199451100
+2020-07-06 22:13:46 INFO  Main:32 - Selection Sorting time in ns: 3037308900
+2020-07-06 22:13:46 INFO  Main:33 - Insertion Sorting time in ns: 728400
+2020-07-06 22:13:46 INFO  Main:34 - Shuttle Sorting time in ns: 571900
+2020-07-06 22:13:46 INFO  Main:35 - Shell Sorting time in ns: 3249400
+2020-07-06 22:13:46 INFO  Main:36 - Merge Sorting time in ns: 23786700
+2020-07-06 22:13:46 INFO  Main:37 - Quick Sorting time in ns: 2868500
+2020-07-06 22:13:46 INFO  Main:38 - Collection.sort() time in ns: 54954100
+
+2020-07-06 22:13:46 INFO  Main:30 - Test number 3
+2020-07-06 22:14:28 INFO  Main:31 - Bubble Sorting time in ns: 42426084700
+2020-07-06 22:14:30 INFO  Main:32 - Selection Sorting time in ns: 2177105200
+2020-07-06 22:14:30 INFO  Main:33 - Insertion Sorting time in ns: 1262000
+2020-07-06 22:14:30 INFO  Main:34 - Shuttle Sorting time in ns: 293200
+2020-07-06 22:14:30 INFO  Main:35 - Shell Sorting time in ns: 1622900
+2020-07-06 22:14:30 INFO  Main:36 - Merge Sorting time in ns: 26675200
+2020-07-06 22:14:30 INFO  Main:37 - Quick Sorting time in ns: 5242300
+2020-07-06 22:14:31 INFO  Main:38 - Collection.sort() time in ns: 93714300
+
+2020-07-06 22:14:31 INFO  Main:30 - Test number 4
+2020-07-06 22:14:57 INFO  Main:31 - Bubble Sorting time in ns: 26738144400
+2020-07-06 22:14:59 INFO  Main:32 - Selection Sorting time in ns: 1802414100
+2020-07-06 22:14:59 INFO  Main:33 - Insertion Sorting time in ns: 88200
+2020-07-06 22:14:59 INFO  Main:34 - Shuttle Sorting time in ns: 78200
+2020-07-06 22:14:59 INFO  Main:35 - Shell Sorting time in ns: 1191700
+2020-07-06 22:14:59 INFO  Main:36 - Merge Sorting time in ns: 32988400
+2020-07-06 22:14:59 INFO  Main:37 - Quick Sorting time in ns: 4593400
+2020-07-06 22:14:59 INFO  Main:38 - Collection.sort() time in ns: 97441500
+
+2020-07-06 22:14:59 INFO  Main:30 - Test number 5
+2020-07-06 22:15:27 INFO  Main:31 - Bubble Sorting time in ns: 27500442400
+2020-07-06 22:15:29 INFO  Main:32 - Selection Sorting time in ns: 2352100600
+2020-07-06 22:15:29 INFO  Main:33 - Insertion Sorting time in ns: 63000
+2020-07-06 22:15:29 INFO  Main:34 - Shuttle Sorting time in ns: 79500
+2020-07-06 22:15:29 INFO  Main:35 - Shell Sorting time in ns: 912400
+2020-07-06 22:15:29 INFO  Main:36 - Merge Sorting time in ns: 20821600
+2020-07-06 22:15:29 INFO  Main:37 - Quick Sorting time in ns: 2707700
+2020-07-06 22:15:29 INFO  Main:38 - Collection.sort() time in ns: 40999800
+
+2020-07-06 22:15:29 INFO  Main:30 - Test number 6
+2020-07-06 22:15:56 INFO  Main:31 - Bubble Sorting time in ns: 26764626100
+2020-07-06 22:15:58 INFO  Main:32 - Selection Sorting time in ns: 2206907400
+2020-07-06 22:15:58 INFO  Main:33 - Insertion Sorting time in ns: 159600
+2020-07-06 22:15:58 INFO  Main:34 - Shuttle Sorting time in ns: 80200
+2020-07-06 22:15:58 INFO  Main:35 - Shell Sorting time in ns: 1943400
+2020-07-06 22:15:58 INFO  Main:36 - Merge Sorting time in ns: 31263000
+2020-07-06 22:15:58 INFO  Main:37 - Quick Sorting time in ns: 2683100
+2020-07-06 22:15:58 INFO  Main:38 - Collection.sort() time in ns: 40365800
+
+2020-07-06 22:15:58 INFO  Main:30 - Test number 7
+2020-07-06 22:16:25 INFO  Main:31 - Bubble Sorting time in ns: 26618572500
+2020-07-06 22:16:27 INFO  Main:32 - Selection Sorting time in ns: 2208738200
+2020-07-06 22:16:27 INFO  Main:33 - Insertion Sorting time in ns: 58100
+2020-07-06 22:16:27 INFO  Main:34 - Shuttle Sorting time in ns: 73000
+2020-07-06 22:16:27 INFO  Main:35 - Shell Sorting time in ns: 892500
+2020-07-06 22:16:27 INFO  Main:36 - Merge Sorting time in ns: 14295700
+2020-07-06 22:16:27 INFO  Main:37 - Quick Sorting time in ns: 2650900
+2020-07-06 22:16:27 INFO  Main:38 - Collection.sort() time in ns: 40455300
+
+2020-07-06 22:16:27 INFO  Main:30 - Test number 8
+2020-07-06 22:16:54 INFO  Main:31 - Bubble Sorting time in ns: 26433045800
+2020-07-06 22:16:56 INFO  Main:32 - Selection Sorting time in ns: 2193791100
+2020-07-06 22:16:56 INFO  Main:33 - Insertion Sorting time in ns: 104500
+2020-07-06 22:16:56 INFO  Main:34 - Shuttle Sorting time in ns: 80500
+2020-07-06 22:16:56 INFO  Main:35 - Shell Sorting time in ns: 910700
+2020-07-06 22:16:56 INFO  Main:36 - Merge Sorting time in ns: 14336800
+2020-07-06 22:16:56 INFO  Main:37 - Quick Sorting time in ns: 2678400
+2020-07-06 22:16:56 INFO  Main:38 - Collection.sort() time in ns: 40552900
+
+2020-07-06 22:16:56 INFO  Main:30 - Test number 9
+2020-07-06 22:17:24 INFO  Main:31 - Bubble Sorting time in ns: 27733092800
+2020-07-06 22:17:26 INFO  Main:32 - Selection Sorting time in ns: 2140339700
+2020-07-06 22:17:26 INFO  Main:33 - Insertion Sorting time in ns: 56900
+2020-07-06 22:17:26 INFO  Main:34 - Shuttle Sorting time in ns: 47900
+2020-07-06 22:17:26 INFO  Main:35 - Shell Sorting time in ns: 856500
+2020-07-06 22:17:26 INFO  Main:36 - Merge Sorting time in ns: 14314000
+2020-07-06 22:17:26 INFO  Main:37 - Quick Sorting time in ns: 2749900
+2020-07-06 22:17:26 INFO  Main:38 - Collection.sort() time in ns: 38725000
+
+2020-07-06 22:17:26 INFO  Main:30 - Test number 10
+2020-07-06 22:17:52 INFO  Main:31 - Bubble Sorting time in ns: 26470903400
+2020-07-06 22:17:54 INFO  Main:32 - Selection Sorting time in ns: 2193314200
+2020-07-06 22:17:54 INFO  Main:33 - Insertion Sorting time in ns: 92200
+2020-07-06 22:17:54 INFO  Main:34 - Shuttle Sorting time in ns: 70800
+2020-07-06 22:17:54 INFO  Main:35 - Shell Sorting time in ns: 993400
+2020-07-06 22:17:54 INFO  Main:36 - Merge Sorting time in ns: 14746700
+2020-07-06 22:17:54 INFO  Main:37 - Quick Sorting time in ns: 2664500
+2020-07-06 22:17:55 INFO  Main:38 - Collection.sort() time in ns: 39782600
+
